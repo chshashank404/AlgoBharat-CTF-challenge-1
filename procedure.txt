@@ -1,0 +1,13 @@
+🚀 Running the Code
+To run this script:
+
+Clone the repo:
+git clone https://github.com/your-github-username/algorand-ctf-solution.git
+
+Enter your own private key in code.py.
+Remember: Your private key is sensitive—don't share it with anyone!
+
+Run the Python script:
+python3 code.py
+
+If everything works fine, you'll see your transaction ID and confirmation!

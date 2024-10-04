@@ -1,0 +1,7 @@
+📜 Requirements
+
+Install the Algorand Python SDK:
+pip install py-algorand-sdk
+
+Nodely provides the Algorand Testnet endpoint:
+https://testnet-api.4160.nodely.dev
